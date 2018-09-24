@@ -20,3 +20,4 @@ https://gitlab.a-sketchy.site/snippets/1
 [] sleep
 [] gains
 [] oh shit, my assignment
+[] and learn how to add checkboxed in markdown
