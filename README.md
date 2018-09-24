@@ -9,3 +9,14 @@ Y'all'll find the server specs here, don't @ me
 https://gitlab.a-sketchy.site/snippets/1
 
 ### I hacked this thing together 'cause I'm incompetent in developing a GUI in any language including SCRATCH
+
+## DODO LIST
+
+[] Fix bugs
+[] channels
+[] pms
+[] non absolute; proper css
+[] best practice js ?
+[] sleep
+[] gains
+[] oh shit, my assignment
